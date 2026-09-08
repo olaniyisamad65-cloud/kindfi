@@ -189,3 +189,6 @@ bun.lockb
 
 # GitHub issue templates (temporary helper files)
 .github/ISSUES/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
